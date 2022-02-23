@@ -1,0 +1,30 @@
+<html>
+<body>
+	<head> <title> Evolucao da Revista NYT </title>
+	</head>
+
+	
+		
+	<h1> Tag iframe <h1>
+	
+	<iframe src="https://web.archive.org/web/20001201203900/http://www10.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe>
+	
+	<h2> teste de texto </h2>
+
+
+	<iframe src="https://web.archive.org/web/20051001012316/http://nytimes.com/" width="600" height="400" style="border:none">
+	</iframe>
+<h2> teste de texto </h2>
+
+	<iframe src="https://web.archive.org/web/20100301085559/http://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe>
+<h2> teste de texto </h2>
+	<iframe src="https://web.archive.org/web/20150401001722/http://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe>
+<h2> teste de texto </h2>	
+	<iframe src="https://web.archive.org/web/20200601000104/https://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe>
+
+</body>
+</html>

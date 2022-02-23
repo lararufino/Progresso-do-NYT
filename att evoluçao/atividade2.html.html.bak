@@ -1,0 +1,36 @@
+<html>
+<body>
+	<head> <title> Evolucao da Revista NYT </title>
+	</head>
+
+	
+		
+	<h1> <center> New York Time ao longo dos anos </center> <h1>
+<hr>
+	<h4> <center> A proposta inicial do site era trazer notícias, informações, conteúdo de esportes, arte, cultura e <br>
+	entre outros assuntos e tópicos com um layout bem aproximado a um jornal daquela época, tornando-o <br>
+	uma espécie de “jornal digital”. </center> </h4>
+	<center> <iframe src="https://web.archive.org/web/20001201203900/http://www10.nytimes.com/" width="600" height="400" style="border:none" > 
+	</iframe> </center>
+	<p> <h5> <center> 2000 </center> </h5> </p>
+	<h4> <center> Sim, com o passar dos anos as necessidades e a forma de um site de notícias foram mudando, havendo <br>
+	necessidade de adaptação conforme essas modificações chegaram. </center> </h4>
+	<center> <iframe src="https://web.archive.org/web/20051001012316/http://nytimes.com/" width="600" height="400" style="border:none">
+	</iframe> </center>
+	<p> <h5> <center> 2005 </center> </h5> </p>
+	<h4> <center> Tendo um ponto de vista atual, o site teria um problema de números de acesso, devido <br>
+	ao layout ter uma aparência de “tudo junto”, e talvez isso levaria o leitor a buscar outro site. </center> </h4>
+	<center> <iframe src="https://web.archive.org/web/20100301085559/http://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe> </center>
+	<p> <h5> <center> 2010 </center> </h5> </p>
+	<h4> <center> Para esse site ser mais atrativo para esse público, seria necessário ter conteúdos e notícias inseridas <br>
+	daquela cultura, como por exemplo: reportagens em saraus, rodas de conversas e danças; temas culturais; oportunidades naquela região etc. </center> </h4>
+	<center> <iframe src="https://web.archive.org/web/20150401001722/http://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe> </center>
+	<h4> <center> 2015 </center> </h4>	
+	<center> <iframe src="https://web.archive.org/web/20200601000104/https://www.nytimes.com/" width="600" height="400" style="border:none">
+	</iframe> </center>
+	<p> <h5> <center> 2020 </center> </h5> </p>
+
+</body>
+</html>
